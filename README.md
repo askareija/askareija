@@ -15,5 +15,8 @@ Here's are some tech i'd love to learn & work with:
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img alt="Postgresql" src="https://img.shields.io/badge/Postgresql-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
+  <img alt="Mysql" src="https://img.shields.io/badge/Mysql-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+  <img alt="Mongodb" src="https://img.shields.io/badge/Mongodb-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img alt="Graphql" src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" />
 </p>
