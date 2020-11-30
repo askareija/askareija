@@ -21,7 +21,7 @@ Here's are some tech i'd love to learn & work with:
   <img alt="Graphql" src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" />
 </p>
 
-## Mostly Used
+## Mostly work with
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=askareija&layout=compact)
 
 ## Stats
